@@ -1,6 +1,6 @@
 ## Hello, World! :wave:
 <p align="left">
-  <img src="avatars.githubusercontent.com/u/153722991?s=400" width="100">
+  <img src="https://avatars.githubusercontent.com/u/153722991?s=400" width="100">
 </p>
 
 Welcome to B.T.V. S.P.A. Project's organization on GitHub.
